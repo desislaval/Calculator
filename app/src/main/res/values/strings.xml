@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="percentage_value">0</string>
+    <string name="what_is">What is...</string>
+    <string name="of">of </string>
+    <string name="enter_number">Enter number</string>
+    <string name="enter_percentage">Enter percentage</string>
+    <string name="percent">%</string>
+    <string name="add_to">Add to</string>
+    <string name="subtract_from">Subtract from</string>
+    <string name="show_percent">Show % only</string>
+    <string name="calculate">Calculate</string>
+</resources>
